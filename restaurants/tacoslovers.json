@@ -1,0 +1,51 @@
+{
+  "restaurants": [
+    {
+      "id": "narbonne",
+      "tabLabel": "Narbonne",
+      "addressLabel": "30 avenue des Pyrenees \n11100 NARBONNE",
+      "mapTitle": "Tacos Lovers, 30 avenue des Pyrenees, 11100 NARBONNE",
+      "mapLocation": {
+        "latitude": 43.1830316,
+        "longitude": 2.9973748,
+        "googlePlaceId": "5XMW+6X Narbonne"
+      },
+      "phoneDisplay": "+33 9 55 02 81 80",
+      "phoneE164": "+33955028180",
+      "websiteUrl": "https://tacoslovers.fr/",
+      "openingHours": [
+        {
+          "day": "Lundi",
+          "hours": "11:40 - 02:00"
+        },
+        {
+          "day": "Mardi",
+          "hours": "11:40 - 02:00"
+        }
+      ]
+    },
+    {
+      "id": "lezignan",
+      "tabLabel": "Lézignan",
+      "addressLabel": "3 Rue des Garrigues \n11200 LEZIGNAN-CORBIERES",
+      "mapTitle": "Tacos Lovers, 3 Rue des Garrigues, 11200 LEZIGNAN-CORBIERES",
+      "mapLocation": {
+        "latitude": 43.1877078,
+        "longitude": 2.7513769,
+        "googlePlaceId": "5QQ3+3H Lezignan-Corbieres"
+      },
+      "phoneDisplay": "+33 9 55 02 81 80",
+      "phoneE164": "+33955028180",
+      "websiteUrl": "https://tacoslovers.fr/",
+      "openingHours": [
+        {
+          "day": "Lundi",
+          "hours": "11:40 - 02:00"
+        }
+      ],
+      "isComingSoon": true,
+      "comingSoonTitle": "Ouverture prochaine a Lezignan",
+      "comingSoonSubtitle": "La localisation est deja disponible sur la carte."
+    }
+  ]
+}
