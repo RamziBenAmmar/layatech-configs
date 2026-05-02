@@ -1,0 +1,180 @@
+{
+  "restaurants": [
+    {
+      "id": "tk-bias",
+      "tabLabel": "Bias",
+      "addressLabel": "456 avenue de Bordeaux\n47300 Bias",
+      "mapTitle": "Tacos Korner, 456 avenue de Bordeaux, 47300 Bias",
+      "mapLocation": {
+        "latitude": 44.4040473,
+        "longitude": 0.6822441,
+        "googlePlaceId": "CM3M+JW Bias"
+      },
+      "phoneDisplay": "+33 9 51 17 58 96",
+      "phoneE164": "+33951175896",
+      "websiteUrl": "https://tacos-korner.fr/",
+      "openingHours": [
+        {
+          "day": "Lundi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Mardi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Mercredi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Jeudi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Vendredi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Samedi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Dimanche",
+          "hours": "11:00 - 02:00"
+        }
+      ]
+    },
+    {
+      "id": "tk-vsl",
+      "tabLabel": "VSL",
+      "addressLabel": "1 avenue Jacques Bordeneuve\n47300 Villeneuve-sur-Lot",
+      "mapTitle": "Pizza Korner, 1 avenue Jacques Bordeneuve, 47300 Villeneuve-sur-Lot",
+      "mapLocation": {
+        "latitude": 44.4043708,
+        "longitude": 0.6956631,
+        "googlePlaceId": "CM3X+P7 Villeneuve-sur-Lot"
+      },
+      "phoneDisplay": "+33 5 47 66 49 09",
+      "phoneE164": "+33547664909",
+      "websiteUrl": "https://pizzakorner.fr/",
+      "openingHours": [
+        {
+          "day": "Lundi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Mardi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Mercredi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Jeudi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Vendredi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Samedi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Dimanche",
+          "hours": "11:00 - 02:00"
+        }
+      ]
+    },
+    {
+      "id": "tk-slv",
+      "tabLabel": "Ste-Livrade",
+      "addressLabel": "18 rue du Château\n47110 Sainte-Livrade-sur-Lot",
+      "mapTitle": "Naan Korner, 18 rue du Château, 47110 Sainte-Livrade-sur-Lot",
+      "mapLocation": {
+        "latitude": 44.3987472,
+        "longitude": 0.5876711,
+        "googlePlaceId": "9HXR+F3 Sainte-Livrade-sur-Lot"
+      },
+      "phoneDisplay": "+33 9 51 50 93 86",
+      "phoneE164": "+33951509386",
+      "websiteUrl": "https://naankorner.fr/",
+      "openingHours": [
+        {
+          "day": "Lundi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Mardi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Mercredi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Jeudi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Vendredi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Samedi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Dimanche",
+          "hours": "11:00 - 02:00"
+        }
+      ]
+    },
+    {
+      "id": "tk-tonneins",
+      "tabLabel": "Tonneins",
+      "addressLabel": "3 rue des Écuries Royales\n47400 Tonneins",
+      "mapTitle": "Tacos Korner, 3 rue des Écuries Royales, 47400 Tonneins",
+      "mapLocation": {
+        "latitude": 44.3901252,
+        "longitude": 0.3068019,
+        "googlePlaceId": "98R5+3Q Tonneins"
+      },
+      "phoneDisplay": "+33 9 86 30 05 30",
+      "phoneE164": "+33986300530",
+      "websiteUrl": "https://tonneins.tacos-korner.fr/",
+      "openingHours": [
+        {
+          "day": "Lundi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Mardi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Mercredi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Jeudi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Vendredi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Samedi",
+          "hours": "11:00 - 02:00"
+        },
+        {
+          "day": "Dimanche",
+          "hours": "11:00 - 02:00"
+        }
+      ]
+    }
+  ]
+}
