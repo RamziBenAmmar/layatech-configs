@@ -90,7 +90,7 @@
     },
     {
       "id": "tk-slv",
-      "tabLabel": "Ste-Livrade",
+      "tabLabel": "S.Livr",
       "addressLabel": "18 rue du Château\n47110 Sainte-Livrade-sur-Lot",
       "mapTitle": "Naan Korner, 18 rue du Château, 47110 Sainte-Livrade-sur-Lot",
       "mapLocation": {
@@ -134,7 +134,7 @@
     },
     {
       "id": "tk-tonneins",
-      "tabLabel": "Tonneins",
+      "tabLabel": "Tonn.",
       "addressLabel": "3 rue des Écuries Royales\n47400 Tonneins",
       "mapTitle": "Tacos Korner, 3 rue des Écuries Royales, 47400 Tonneins",
       "mapLocation": {
