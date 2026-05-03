@@ -2,6 +2,7 @@
   "restaurants": [
     {
       "id": "narbonne",
+      "name": "Tacos Lovers Narbonne",
       "tabLabel": "Narbonne",
       "addressLabel": "30 avenue des Pyrenees \n11100 NARBONNE",
       "mapTitle": "Tacos Lovers, 30 avenue des Pyrenees, 11100 NARBONNE",
@@ -47,6 +48,7 @@
     {
       "id": "lezignan",
       "tabLabel": "Lézignan",
+      "name": "Tacos Lovers Lézignan",
       "addressLabel": "3 Rue des Garrigues \n11200 LEZIGNAN-CORBIERES",
       "mapTitle": "Tacos Lovers, 3 Rue des Garrigues, 11200 LEZIGNAN-CORBIERES",
       "mapLocation": {
@@ -64,8 +66,8 @@
         }
       ],
       "isComingSoon": true,
-      "comingSoonTitle": "Ouverture prochaine a Lezignan",
-      "comingSoonSubtitle": "La localisation est deja disponible sur la carte."
+      "comingSoonTitle": "Ouverture prochaine à Lézignan",
+      "comingSoonSubtitle": "La localisation est déjà disponible sur la carte."
     }
   ]
 }

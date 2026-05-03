@@ -3,6 +3,7 @@
     {
       "id": "tk-bias",
       "tabLabel": "Bias",
+      "name": "Tacos Korner Bias",
       "addressLabel": "456 avenue de Bordeaux\n47300 Bias",
       "mapTitle": "Tacos Korner, 456 avenue de Bordeaux, 47300 Bias",
       "mapLocation": {
@@ -47,6 +48,7 @@
     {
       "id": "tk-vsl",
       "tabLabel": "VSL",
+      "name": "Pizza Korner Villeneuve-sur-Lot",
       "addressLabel": "1 avenue Jacques Bordeneuve\n47300 Villeneuve-sur-Lot",
       "mapTitle": "Pizza Korner, 1 avenue Jacques Bordeneuve, 47300 Villeneuve-sur-Lot",
       "mapLocation": {
@@ -91,6 +93,7 @@
     {
       "id": "tk-slv",
       "tabLabel": "S.Livr",
+      "name": "Naan Korner Sainte-Livrade-sur-Lot",
       "addressLabel": "18 rue du Château\n47110 Sainte-Livrade-sur-Lot",
       "mapTitle": "Naan Korner, 18 rue du Château, 47110 Sainte-Livrade-sur-Lot",
       "mapLocation": {
@@ -135,6 +138,7 @@
     {
       "id": "tk-tonneins",
       "tabLabel": "Tonn.",
+      "name": "Tacos Korner Tonneins",
       "addressLabel": "3 rue des Écuries Royales\n47400 Tonneins",
       "mapTitle": "Tacos Korner, 3 rue des Écuries Royales, 47400 Tonneins",
       "mapLocation": {
