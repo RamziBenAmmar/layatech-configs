@@ -17,31 +17,31 @@
       "openingHours": [
         {
           "day": "Lundi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 00:00"
         },
         {
           "day": "Mardi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 00:00"
         },
         {
           "day": "Mercredi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 00:00"
         },
         {
           "day": "Jeudi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 00:00"
         },
         {
           "day": "Vendredi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 00:00"
         },
         {
           "day": "Samedi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 00:00"
         },
         {
           "day": "Dimanche",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 00:00"
         }
       ]
     },
@@ -62,31 +62,31 @@
       "openingHours": [
         {
           "day": "Lundi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Mardi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Mercredi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Jeudi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Vendredi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Samedi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Dimanche",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         }
       ]
     },
@@ -107,31 +107,31 @@
       "openingHours": [
         {
           "day": "Lundi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Mardi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Mercredi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Jeudi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Vendredi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Samedi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Dimanche",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         }
       ]
     },
@@ -152,31 +152,31 @@
       "openingHours": [
         {
           "day": "Lundi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Mardi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Mercredi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Jeudi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Vendredi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Samedi",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         },
         {
           "day": "Dimanche",
-          "hours": "11:00 - 02:00"
+          "hours": "11:00 - 23:00"
         }
       ]
     }
